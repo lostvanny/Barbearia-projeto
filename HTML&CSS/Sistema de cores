@@ -1,0 +1,17 @@
+Sistema de cores
+
+
+Hexadecimal
+
+0123456789ABCDEF
+
+# _ _ _ _ _ _
+   R   G   B
+
+F = Máximo
+0 = Minímo
+
+RGB
+
+rgb(0 a 255,0 a 255, 0 a 255)
+	  Red     Green    Blue
